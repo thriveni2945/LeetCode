@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/thriveni2945/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/thriveni2945/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/thriveni2945/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/thriveni2945/LeetCode/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/thriveni2945/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thriveni2945/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/thriveni2945/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/thriveni2945/LeetCode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/thriveni2945/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/thriveni2945/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/thriveni2945/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/thriveni2945/LeetCode/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/thriveni2945/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thriveni2945/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/thriveni2945/LeetCode/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
