@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/thriveni2945/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/thriveni2945/LeetCode/tree/master/0101-symmetric-tree) |
 ## Tree
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/thriveni2945/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/thriveni2945/LeetCode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/thriveni2945/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/thriveni2945/LeetCode/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -283,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/thriveni2945/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/thriveni2945/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
