@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/thriveni2945/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/thriveni2945/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/thriveni2945/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/thriveni2945/LeetCode/tree/master/0072-edit-distance) |
 ## Trie
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/thriveni2945/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/thriveni2945/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/thriveni2945/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/thriveni2945/LeetCode/tree/master/0072-edit-distance) |
 ## Linked List
 |  |
 | ------- |
