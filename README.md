@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/thriveni2945/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/thriveni2945/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/thriveni2945/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/thriveni2945/LeetCode/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thriveni2945/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/thriveni2945/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/thriveni2945/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/thriveni2945/LeetCode/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/thriveni2945/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thriveni2945/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/thriveni2945/LeetCode/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
