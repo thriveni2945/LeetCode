@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thriveni2945/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/thriveni2945/LeetCode/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/thriveni2945/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/thriveni2945/LeetCode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/thriveni2945/LeetCode/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/thriveni2945/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thriveni2945/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/thriveni2945/LeetCode/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/thriveni2945/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/thriveni2945/LeetCode/tree/master/0044-wildcard-matching) |
 ## String Matching
 |  |
 | ------- |
