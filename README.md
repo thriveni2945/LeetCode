@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/thriveni2945/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/thriveni2945/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thriveni2945/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/thriveni2945/LeetCode/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/thriveni2945/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thriveni2945/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/thriveni2945/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/thriveni2945/LeetCode/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
