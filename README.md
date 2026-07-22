@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/thriveni2945/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/thriveni2945/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/thriveni2945/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/thriveni2945/LeetCode/tree/master/0052-n-queens-ii) |
 ## Stack
 |  |
 | ------- |
