@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/thriveni2945/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/thriveni2945/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/thriveni2945/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/thriveni2945/LeetCode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/thriveni2945/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/thriveni2945/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/thriveni2945/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/thriveni2945/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
