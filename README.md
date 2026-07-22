@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/thriveni2945/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thriveni2945/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/thriveni2945/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/thriveni2945/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/thriveni2945/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/thriveni2945/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/thriveni2945/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -88,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thriveni2945/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/thriveni2945/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/thriveni2945/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/thriveni2945/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/thriveni2945/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thriveni2945/LeetCode/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/thriveni2945/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
