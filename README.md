@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/thriveni2945/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thriveni2945/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/thriveni2945/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/thriveni2945/LeetCode/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/thriveni2945/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/thriveni2945/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/thriveni2945/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/thriveni2945/LeetCode/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/thriveni2945/LeetCode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/thriveni2945/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
