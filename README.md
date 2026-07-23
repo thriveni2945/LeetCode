@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/thriveni2945/LeetCode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/thriveni2945/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/thriveni2945/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/thriveni2945/LeetCode/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/thriveni2945/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/thriveni2945/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/thriveni2945/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/thriveni2945/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
