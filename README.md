@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/thriveni2945/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/thriveni2945/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thriveni2945/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/thriveni2945/LeetCode/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/thriveni2945/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/thriveni2945/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/thriveni2945/LeetCode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/thriveni2945/LeetCode/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
