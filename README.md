@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/thriveni2945/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/thriveni2945/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/thriveni2945/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/thriveni2945/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/thriveni2945/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/thriveni2945/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/thriveni2945/LeetCode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/thriveni2945/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/thriveni2945/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/thriveni2945/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thriveni2945/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/thriveni2945/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
