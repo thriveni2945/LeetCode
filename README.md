@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/thriveni2945/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/thriveni2945/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thriveni2945/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/thriveni2945/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/thriveni2945/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/thriveni2945/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/thriveni2945/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/thriveni2945/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thriveni2945/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -406,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/thriveni2945/LeetCode/tree/master/0133-clone-graph) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
