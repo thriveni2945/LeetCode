@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/thriveni2945/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/thriveni2945/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/thriveni2945/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/thriveni2945/LeetCode/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/thriveni2945/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/thriveni2945/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/thriveni2945/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/thriveni2945/LeetCode/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -149,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/thriveni2945/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/thriveni2945/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/thriveni2945/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/thriveni2945/LeetCode/tree/master/0139-word-break) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thriveni2945/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/thriveni2945/LeetCode/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/thriveni2945/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thriveni2945/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/thriveni2945/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/thriveni2945/LeetCode/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -277,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/thriveni2945/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/thriveni2945/LeetCode/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
