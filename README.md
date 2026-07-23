@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/thriveni2945/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thriveni2945/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/thriveni2945/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/thriveni2945/LeetCode/tree/master/0130-surrounded-regions) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/thriveni2945/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/thriveni2945/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/thriveni2945/LeetCode/tree/master/0130-surrounded-regions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/thriveni2945/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/thriveni2945/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/thriveni2945/LeetCode/tree/master/0130-surrounded-regions) |
 ## Tree
 |  |
 | ------- |
@@ -344,8 +347,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thriveni2945/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/thriveni2945/LeetCode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/thriveni2945/LeetCode/tree/master/0130-surrounded-regions) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thriveni2945/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/thriveni2945/LeetCode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
