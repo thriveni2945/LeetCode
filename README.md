@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/thriveni2945/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/thriveni2945/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/thriveni2945/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/thriveni2945/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/thriveni2945/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/thriveni2945/LeetCode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/thriveni2945/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Trie
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/thriveni2945/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/thriveni2945/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/thriveni2945/LeetCode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/thriveni2945/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Matrix
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/thriveni2945/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/thriveni2945/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -446,5 +450,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/thriveni2945/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/thriveni2945/LeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/thriveni2945/LeetCode/tree/master/0185-department-top-three-salaries) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/thriveni2945/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/thriveni2945/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_Thriveni_?theme=light&font=Crete%20Round)
