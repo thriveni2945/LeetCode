@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/thriveni2945/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thriveni2945/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/thriveni2945/LeetCode/tree/master/0174-dungeon-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thriveni2945/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/thriveni2945/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/thriveni2945/LeetCode/tree/master/0139-word-break) |
+| [0174-dungeon-game](https://github.com/thriveni2945/LeetCode/tree/master/0174-dungeon-game) |
 ## Linked List
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/thriveni2945/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/thriveni2945/LeetCode/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/thriveni2945/LeetCode/tree/master/0174-dungeon-game) |
 ## Monotonic Stack
 |  |
 | ------- |
