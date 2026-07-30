@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/thriveni2945/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/thriveni2945/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/thriveni2945/LeetCode/tree/master/0189-rotate-array) |
+| [0492-construct-the-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0492-construct-the-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
