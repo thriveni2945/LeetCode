@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thriveni2945/LeetCode/tree/master/0189-rotate-array) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/thriveni2945/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
 | ------- |
