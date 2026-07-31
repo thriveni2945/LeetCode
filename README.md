@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/thriveni2945/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/thriveni2945/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/thriveni2945/LeetCode/tree/master/0575-distribute-candies) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/thriveni2945/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/thriveni2945/LeetCode/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/thriveni2945/LeetCode/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
