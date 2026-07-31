@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/thriveni2945/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/thriveni2945/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/thriveni2945/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/thriveni2945/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/thriveni2945/LeetCode/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/thriveni2945/LeetCode/tree/master/0179-largest-number) |
 | [0506-relative-ranks](https://github.com/thriveni2945/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 ## Backtracking
 |  |
 | ------- |
@@ -525,5 +528,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_Thriveni_?theme=light&font=Crete%20Round)
