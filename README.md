@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Tree
 |  |
 | ------- |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/thriveni2945/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/thriveni2945/LeetCode/tree/master/0133-clone-graph) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Union-Find
 |  |
 | ------- |
