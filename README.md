@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/thriveni2945/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thriveni2945/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/thriveni2945/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/thriveni2945/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -607,5 +608,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/thriveni2945/LeetCode/tree/master/1291-sequential-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/thriveni2945/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_Thriveni_?theme=light&font=Crete%20Round)
