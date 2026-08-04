@@ -589,5 +589,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/thriveni2945/LeetCode/tree/master/1122-relative-sort-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/thriveni2945/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_Thriveni_?theme=light&font=Crete%20Round)
