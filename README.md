@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/thriveni2945/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/thriveni2945/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/thriveni2945/LeetCode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/thriveni2945/LeetCode/tree/master/0223-rectangle-area) |
 | [0492-construct-the-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/thriveni2945/LeetCode/tree/master/0507-perfect-number) |
@@ -658,5 +659,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/thriveni2945/LeetCode/tree/master/0207-course-schedule) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/thriveni2945/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_Thriveni_?theme=light&font=Crete%20Round)
