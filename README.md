@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/thriveni2945/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/thriveni2945/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/thriveni2945/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/thriveni2945/LeetCode/tree/master/0221-maximal-square) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/thriveni2945/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/thriveni2945/LeetCode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/thriveni2945/LeetCode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/thriveni2945/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/thriveni2945/LeetCode/tree/master/0221-maximal-square) |
 | [0509-fibonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/thriveni2945/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/thriveni2945/LeetCode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/thriveni2945/LeetCode/tree/master/0174-dungeon-game) |
+| [0221-maximal-square](https://github.com/thriveni2945/LeetCode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/thriveni2945/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/thriveni2945/LeetCode/tree/master/0867-transpose-matrix) |
