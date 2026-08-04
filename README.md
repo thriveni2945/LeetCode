@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/thriveni2945/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/thriveni2945/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/thriveni2945/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thriveni2945/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/thriveni2945/LeetCode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/thriveni2945/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/thriveni2945/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thriveni2945/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/thriveni2945/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/thriveni2945/LeetCode/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/thriveni2945/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thriveni2945/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/thriveni2945/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/thriveni2945/LeetCode/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thriveni2945/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bracket Sequences
 |  |
 | ------- |
