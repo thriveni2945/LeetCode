@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/thriveni2945/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/thriveni2945/LeetCode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/thriveni2945/LeetCode/tree/master/0313-super-ugly-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/thriveni2945/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/thriveni2945/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/thriveni2945/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/thriveni2945/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/thriveni2945/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/thriveni2945/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/thriveni2945/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thriveni2945/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/thriveni2945/LeetCode/tree/master/0567-permutation-in-string) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/thriveni2945/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/thriveni2945/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/thriveni2945/LeetCode/tree/master/0567-permutation-in-string) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/thriveni2945/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/thriveni2945/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/thriveni2945/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/thriveni2945/LeetCode/tree/master/0905-sort-array-by-parity) |
