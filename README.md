@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/thriveni2945/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/thriveni2945/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/thriveni2945/LeetCode/tree/master/0274-h-index) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/thriveni2945/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/thriveni2945/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/thriveni2945/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/thriveni2945/LeetCode/tree/master/0274-h-index) |
 | [0506-relative-ranks](https://github.com/thriveni2945/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/thriveni2945/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/thriveni2945/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/thriveni2945/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/thriveni2945/LeetCode/tree/master/1122-relative-sort-array) |
