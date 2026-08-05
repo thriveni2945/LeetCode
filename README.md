@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/thriveni2945/LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/thriveni2945/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/thriveni2945/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/thriveni2945/LeetCode/tree/master/0231-power-of-two) |
 | [0492-construct-the-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/thriveni2945/LeetCode/tree/master/0507-perfect-number) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/thriveni2945/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/thriveni2945/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/thriveni2945/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/thriveni2945/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/thriveni2945/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/thriveni2945/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/thriveni2945/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/thriveni2945/LeetCode/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/thriveni2945/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/thriveni2945/LeetCode/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/thriveni2945/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
