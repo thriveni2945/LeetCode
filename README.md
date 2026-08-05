@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/thriveni2945/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/thriveni2945/LeetCode/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/thriveni2945/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/thriveni2945/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Sorting
 |  |
 | ------- |
