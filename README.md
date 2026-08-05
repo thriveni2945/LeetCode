@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/thriveni2945/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thriveni2945/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/thriveni2945/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thriveni2945/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/thriveni2945/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thriveni2945/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thriveni2945/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
@@ -695,5 +699,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/thriveni2945/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_Thriveni_?theme=light&font=Crete%20Round)
