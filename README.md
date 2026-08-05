@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/thriveni2945/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/thriveni2945/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0496-next-greater-element-i](https://github.com/thriveni2945/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/thriveni2945/LeetCode/tree/master/0567-permutation-in-string) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/thriveni2945/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/thriveni2945/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0482-license-key-formatting](https://github.com/thriveni2945/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/thriveni2945/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1748-sum-of-unique-elements](https://github.com/thriveni2945/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Design
 |  |
