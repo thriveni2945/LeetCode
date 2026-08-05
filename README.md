@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/thriveni2945/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/thriveni2945/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/thriveni2945/LeetCode/tree/master/0394-decode-string) |
 | [0482-license-key-formatting](https://github.com/thriveni2945/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/thriveni2945/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/thriveni2945/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/thriveni2945/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/thriveni2945/LeetCode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/thriveni2945/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/thriveni2945/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/thriveni2945/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/thriveni2945/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thriveni2945/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/thriveni2945/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
