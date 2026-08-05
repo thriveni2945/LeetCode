@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/thriveni2945/LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/thriveni2945/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/thriveni2945/LeetCode/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/thriveni2945/LeetCode/tree/master/0401-binary-watch) |
 ## Stack
 |  |
 | ------- |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/thriveni2945/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/thriveni2945/LeetCode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/thriveni2945/LeetCode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/thriveni2945/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/thriveni2945/LeetCode/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/thriveni2945/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
