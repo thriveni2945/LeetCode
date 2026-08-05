@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/thriveni2945/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/thriveni2945/LeetCode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/thriveni2945/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/thriveni2945/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/thriveni2945/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/thriveni2945/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/thriveni2945/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/thriveni2945/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/thriveni2945/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0541-reverse-string-ii](https://github.com/thriveni2945/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thriveni2945/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/thriveni2945/LeetCode/tree/master/0567-permutation-in-string) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thriveni2945/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/thriveni2945/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/thriveni2945/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/thriveni2945/LeetCode/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/thriveni2945/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/thriveni2945/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Topological Sort
 |  |
 | ------- |
@@ -793,5 +798,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/thriveni2945/LeetCode/tree/master/0279-perfect-squares) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_Thriveni_?theme=light&font=Crete%20Round)
