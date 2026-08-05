@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/thriveni2945/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/thriveni2945/LeetCode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/thriveni2945/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/thriveni2945/LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/thriveni2945/LeetCode/tree/master/0507-perfect-number) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/thriveni2945/LeetCode/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/thriveni2945/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/thriveni2945/LeetCode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/thriveni2945/LeetCode/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/thriveni2945/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/thriveni2945/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/thriveni2945/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/thriveni2945/LeetCode/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/thriveni2945/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/thriveni2945/LeetCode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/thriveni2945/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/thriveni2945/LeetCode/tree/master/0867-transpose-matrix) |
