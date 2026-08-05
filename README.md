@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/thriveni2945/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/thriveni2945/LeetCode/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/thriveni2945/LeetCode/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/thriveni2945/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thriveni2945/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/thriveni2945/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/thriveni2945/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/thriveni2945/LeetCode/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/thriveni2945/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thriveni2945/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/thriveni2945/LeetCode/tree/master/0567-permutation-in-string) |
