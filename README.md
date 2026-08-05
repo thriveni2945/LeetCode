@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/thriveni2945/LeetCode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/thriveni2945/LeetCode/tree/master/0289-game-of-life) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/thriveni2945/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/thriveni2945/LeetCode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/thriveni2945/LeetCode/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/thriveni2945/LeetCode/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/thriveni2945/LeetCode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/thriveni2945/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/thriveni2945/LeetCode/tree/master/0867-transpose-matrix) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/thriveni2945/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/thriveni2945/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/thriveni2945/LeetCode/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/thriveni2945/LeetCode/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/thriveni2945/LeetCode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/thriveni2945/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/thriveni2945/LeetCode/tree/master/0867-transpose-matrix) |
