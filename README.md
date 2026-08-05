@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/thriveni2945/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/thriveni2945/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/thriveni2945/LeetCode/tree/master/0279-perfect-squares) |
 | [0492-construct-the-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/thriveni2945/LeetCode/tree/master/0507-perfect-number) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/thriveni2945/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thriveni2945/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/thriveni2945/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/thriveni2945/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/thriveni2945/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/thriveni2945/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/thriveni2945/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/thriveni2945/LeetCode/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -774,5 +777,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/thriveni2945/LeetCode/tree/master/0278-first-bad-version) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/thriveni2945/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/thriveni2945/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_Thriveni_?theme=light&font=Crete%20Round)
