@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/thriveni2945/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/thriveni2945/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/thriveni2945/LeetCode/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0284-peeking-iterator) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/thriveni2945/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -671,10 +672,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/thriveni2945/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0284-peeking-iterator) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0284-peeking-iterator) |
 ## Database
 |  |
 | ------- |
