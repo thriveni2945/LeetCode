@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/thriveni2945/LeetCode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/thriveni2945/LeetCode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/thriveni2945/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/thriveni2945/LeetCode/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/thriveni2945/LeetCode/tree/master/0507-perfect-number) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/thriveni2945/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/thriveni2945/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/thriveni2945/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/thriveni2945/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/thriveni2945/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/thriveni2945/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/thriveni2945/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/thriveni2945/LeetCode/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/thriveni2945/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
