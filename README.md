@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/thriveni2945/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/thriveni2945/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/thriveni2945/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/thriveni2945/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/thriveni2945/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/thriveni2945/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Knapsack Problem
 |  |
 | ------- |
