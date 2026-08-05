@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thriveni2945/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/thriveni2945/LeetCode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/thriveni2945/LeetCode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/thriveni2945/LeetCode/tree/master/0224-basic-calculator) |
 | [0492-construct-the-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/thriveni2945/LeetCode/tree/master/0507-perfect-number) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/thriveni2945/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/thriveni2945/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/thriveni2945/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0224-basic-calculator](https://github.com/thriveni2945/LeetCode/tree/master/0224-basic-calculator) |
 | [0482-license-key-formatting](https://github.com/thriveni2945/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/thriveni2945/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thriveni2945/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/thriveni2945/LeetCode/tree/master/0224-basic-calculator) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/thriveni2945/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/thriveni2945/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/thriveni2945/LeetCode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/thriveni2945/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/thriveni2945/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/thriveni2945/LeetCode/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
