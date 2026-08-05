@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/thriveni2945/LeetCode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/thriveni2945/LeetCode/tree/master/0313-super-ugly-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/thriveni2945/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/thriveni2945/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/thriveni2945/LeetCode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/thriveni2945/LeetCode/tree/master/0313-super-ugly-number) |
 | [0392-is-subsequence](https://github.com/thriveni2945/LeetCode/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/thriveni2945/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/thriveni2945/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/thriveni2945/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/thriveni2945/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/thriveni2945/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/thriveni2945/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/thriveni2945/LeetCode/tree/master/0567-permutation-in-string) |
 ## Depth-First Search
 |  |
