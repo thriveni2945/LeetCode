@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/thriveni2945/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/thriveni2945/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/thriveni2945/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/thriveni2945/LeetCode/tree/master/0567-permutation-in-string) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/thriveni2945/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/thriveni2945/LeetCode/tree/master/0389-find-the-difference) |
 | [0482-license-key-formatting](https://github.com/thriveni2945/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/thriveni2945/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/thriveni2945/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/thriveni2945/LeetCode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/thriveni2945/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/thriveni2945/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thriveni2945/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/thriveni2945/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/thriveni2945/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/thriveni2945/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/thriveni2945/LeetCode/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/thriveni2945/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
