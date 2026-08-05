@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/thriveni2945/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/thriveni2945/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0482-license-key-formatting](https://github.com/thriveni2945/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/thriveni2945/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/thriveni2945/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/thriveni2945/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/thriveni2945/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/thriveni2945/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/thriveni2945/LeetCode/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thriveni2945/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -687,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/thriveni2945/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/thriveni2945/LeetCode/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/thriveni2945/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thriveni2945/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Iterator
 |  |
 | ------- |
