@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/thriveni2945/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/thriveni2945/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/thriveni2945/LeetCode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/thriveni2945/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0492-construct-the-rectangle](https://github.com/thriveni2945/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/thriveni2945/LeetCode/tree/master/0507-perfect-number) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/thriveni2945/LeetCode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/thriveni2945/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/thriveni2945/LeetCode/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/thriveni2945/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/thriveni2945/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/thriveni2945/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/thriveni2945/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/thriveni2945/LeetCode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/thriveni2945/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
