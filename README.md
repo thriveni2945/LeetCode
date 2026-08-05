@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/thriveni2945/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/thriveni2945/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/thriveni2945/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/thriveni2945/LeetCode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/thriveni2945/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/thriveni2945/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/thriveni2945/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/thriveni2945/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/thriveni2945/LeetCode/tree/master/0400-nth-digit) |
+| [0436-find-right-interval](https://github.com/thriveni2945/LeetCode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0456-132-pattern) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/thriveni2945/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/thriveni2945/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/thriveni2945/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/thriveni2945/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/thriveni2945/LeetCode/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/thriveni2945/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/thriveni2945/LeetCode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/thriveni2945/LeetCode/tree/master/0905-sort-array-by-parity) |
