@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/thriveni2945/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/thriveni2945/LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/thriveni2945/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thriveni2945/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/thriveni2945/LeetCode/tree/master/0567-permutation-in-string) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/thriveni2945/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/thriveni2945/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/thriveni2945/LeetCode/tree/master/0392-is-subsequence) |
 | [0482-license-key-formatting](https://github.com/thriveni2945/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/thriveni2945/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/thriveni2945/LeetCode/tree/master/0504-base-7) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/thriveni2945/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/thriveni2945/LeetCode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/thriveni2945/LeetCode/tree/master/0313-super-ugly-number) |
+| [0392-is-subsequence](https://github.com/thriveni2945/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/thriveni2945/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/thriveni2945/LeetCode/tree/master/1137-n-th-tribonacci-number) |
