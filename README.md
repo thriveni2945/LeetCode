@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/thriveni2945/LeetCode/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/thriveni2945/LeetCode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/thriveni2945/LeetCode/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/thriveni2945/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/thriveni2945/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/thriveni2945/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/thriveni2945/LeetCode/tree/master/1122-relative-sort-array) |
