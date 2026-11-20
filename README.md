@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/thriveni2945/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/thriveni2945/LeetCode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/thriveni2945/LeetCode/tree/master/0313-super-ugly-number) |
+| [0347-top-k-frequent-elements](https://github.com/thriveni2945/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/thriveni2945/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/thriveni2945/LeetCode/tree/master/0414-third-maximum-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/thriveni2945/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/thriveni2945/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/thriveni2945/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/thriveni2945/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/thriveni2945/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/thriveni2945/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/thriveni2945/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thriveni2945/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/thriveni2945/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/thriveni2945/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/thriveni2945/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thriveni2945/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/thriveni2945/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/thriveni2945/LeetCode/tree/master/0414-third-maximum-number) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/thriveni2945/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/thriveni2945/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/thriveni2945/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/thriveni2945/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/thriveni2945/LeetCode/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
@@ -855,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/thriveni2945/LeetCode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/thriveni2945/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/thriveni2945/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/thriveni2945/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/thriveni2945/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/thriveni2945/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -1045,5 +1051,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thriveni2945/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thriveni2945/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/thriveni2945/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_Thriveni_?theme=light&font=Crete%20Round)
